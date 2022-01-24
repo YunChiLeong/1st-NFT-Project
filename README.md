@@ -12,8 +12,8 @@ The metadata data for the first 2 nft are complete.
 The json strings containing the metadata are hosted on a Moralis server. 
 
 # Next task 
-Getting test Ether from Rinkeby Ether Faucet so to publish on test Opensea server.
-ON PAUSE: Due to Rinkeby Ether Faucet not dispensing test Ether. 
+Getting test Ether from Rinkeby Ether Faucet, to deploy on test Opensea server.
+PROGRESS ON PAUSE: Due to Rinkeby Ether Faucet not dispensing test Ether. 
 I do not own any Ether myself to proceed. :(
 
 # Future task
