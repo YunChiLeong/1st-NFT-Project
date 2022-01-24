@@ -5,10 +5,10 @@ Moralis server to host metadata and finally publish on Opensea Marketplace
 
 # Current Progress - Jan 23, 2020
 The smart contract code is complete. 
-I implemented mint function (can only called by Owner) and
-burn function (can only be called by current token owner)
+I implemented mint function (restricted to Owner) and
+burn function (restricted current token owner)
 
-The metadata data for the first 2 nft are completed. 
+The metadata data for the first 2 nft are complete. 
 The json strings containing the metadata are hosted on a Moralis server. 
 
 # Next task 
